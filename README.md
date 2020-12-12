@@ -1,1 +1,1 @@
-# This is my portfolio of java porjects undertaken during my time at university
+# This is my portfolio of java projects undertaken during my time at university
